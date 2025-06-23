@@ -20,7 +20,7 @@ export default defineConfig(({ mode }) => ({
     host: "::", 
     port: 8080, 
     allowedHosts: [
-      "compucell3d.virion.delivery",
+      "compucell3d.oncorithms.institute",
     ],
   },
   plugins: [
