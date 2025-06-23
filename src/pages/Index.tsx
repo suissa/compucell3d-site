@@ -63,16 +63,16 @@ const Index = () => {
       <section className="relative overflow-hidden min-h-screen">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="text-center flex flex-col items-center">
-          <h1 className="pt-16 text-4xl md:text-5xl font-bold bg-gradient-to-b from-green-900 to-green-400 bg-clip-text text-transparent">
+          <h1 className="pt-16 text-4xl md:text-5xl font-bold bg-gradient-to-t from-blue-600 to-blue-300 bg-clip-text text-transparent">
             Welcome to</h1>
               
           <img 
-              src="/logo-verde-conthrax.png" 
+              src="/logo-site.png" 
               alt="CompuCell3D Logo" 
               className="w-[90vw] md:w-[60vw] w-auto mx-auto"
             />
             <div>
-              <p className="mt-16 text-4xl md:text-6xl font-bold bg-gradient-to-b from-green-900 via-green-400 to-green-900 bg-clip-text text-transparent pb-8">Multi-Scale Modeling Platform</p>
+              <p className="mt-16 text-4xl md:text-6xl font-bold bg-gradient-to-b from-green-600 to-green-900 bg-clip-text text-transparent pb-8">Multi-Scale Modeling Platform</p>
             </div>
             <p className="mt-8 text-xl md:text-2xl text-green-700 mb-8 max-w-4xl mx-auto leading-relaxed font-semibold">
               A flexible scriptable modeling environment for rapid construction of 
